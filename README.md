@@ -1,1 +1,6 @@
-Hello, We are here to help Russian-speaking Python users write in a language that is more understandable to them.
+> **PythonRU**
+
+  Code in **Python** on russian language
+  Программируйте в **Python** на русском языке
+
+**PythonRU** создан чтобы облегчить программированние на **Python** русскоязычным людям
