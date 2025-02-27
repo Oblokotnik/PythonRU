@@ -1,3 +1,5 @@
+print("Creators: SEI163 and Keny")
+print("Telegram channel: @Coin_Ts")
 import re
 
 # Словарь соответствий английских ключевых слов русским
