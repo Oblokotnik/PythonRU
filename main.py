@@ -43,7 +43,14 @@ russian_keywords = {
     "читать": "read",
     "писать": "write",
     "диапазон": "range",
-    "запомнить": "save"
+    "запомнить": "save",
+    "заглавные": "upper",
+    "ввод": "input",
+    "длина": "len",
+    "тип": "type",
+    "округлить": "round",
+    "иначе если": "elif",
+    "прибавить": "add",
 }
 
 def translate_to_python(russian_code):
